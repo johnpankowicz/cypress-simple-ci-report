@@ -1,4 +1,4 @@
-describe('Google fail search', () => {
+describe('Google fail search JP', () => {
     
     it('Successfully loads Google.com', () => {
         cy.visit('https://www.google.com') 
